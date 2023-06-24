@@ -6,6 +6,8 @@
 <a href="https://twitter.com/devdefars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devdefars" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karinamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karinamd" height="30" width="40" /></a>
 <a href="https://instagram.com/karinadiaz.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karinadiaz.dev" height="30" width="40" /></a>
+<a href="/https://portfoliokarinadiaz.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://portfoliokarinadiaz.vercel.app/" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and tools that I am learning:</h3>
