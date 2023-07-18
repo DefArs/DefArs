@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defars&show_icons=true&locale=en&layout=compact" alt="defars" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defars&show_icons=true&locale=en" alt="defars" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=defars&" alt="defars" /></p>
